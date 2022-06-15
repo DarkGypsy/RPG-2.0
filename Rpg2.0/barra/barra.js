@@ -11,5 +11,3 @@ export default () => new Promise(res=>{
             cont = cont + 5;
         },500)
 })
-
-
