@@ -1,4 +1,4 @@
-import inicio from "./pantallaini.js";
+import inicio from "./pantallaCarga/pantallaini.js";
 import menu from "./menu.js";
 var color = "#ffffff";
 function jugar(){
